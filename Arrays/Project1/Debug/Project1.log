@@ -1,0 +1,10 @@
+﻿  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  MyForm.cpp
+C:\Users\Final\Desktop\Массивы\Project1\MyForm.h(732,7): warning C4101: x1: неиспользованная локальная переменная
+C:\Users\Final\Desktop\Массивы\Project1\MyForm.h(776,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Final\Desktop\Массивы\Project1\MyForm.h(833,21): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+C:\Users\Final\Desktop\Массивы\Project1\MyForm.h(706): warning C4700: использована неинициализированная локальная переменная "x1"
+C:\Users\Final\Desktop\Массивы\Project1\MyForm.h(721): warning C4700: использована неинициализированная локальная переменная "x1"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\Final\Desktop\Массивы\Debug\Project1.exe
